@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100vw;
+    min-width: 180px;
+    border: 2px solid red;
+    overflow: hidden;
+    font-size: .7em;
+}
+.left {
+    float: left;
+    width: 45%;
+    margin-bottom: 10px;
+}
+.right {
+    float: right;
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+#wrapper-1 {
+    width: 45%;
+    min-width: 76px;
+    display: inline-block;
+}
+
+#main {
+    text-align: center;
+}
+
+#content-1 {
+    border: 2px solid blueviolet;
+    width: 96%;
+    display: inline-block;
+}
+
+#content-1--main {
+    text-align: center;
+}
+
+.box1 {
+    width: 5em;
+    height: 5em;
+}
+
+.color1 {
+    background-color: olivedrab;
+}
+
+#content-2 {
+    border: 2px solid darkgreen;
+    width: 96%;
+    display: inline-block;
+}
+
+#content-2--main {
+    text-align: center;
+}
+
+.after {
+    margin: 5px;
+    /* background-color: tomato; */
+}
+
+.after-1 {
+    margin-bottom: 5px;
+    /* background-color: tomato; */
+}
+
+.after-2 {
+    margin: 10px 10px;
+    /* background-color: tomato; */
+}
+
+.after-3 {
+    margin: 10px 0 10px 0;
+    /* background-color: tomato; */
+}
+
+.after-4 {
+    margin: 10px 10px 0 10px
+    /* background-color: tomato; */
+}
+
+.after-5 {
+    margin: 0 10px 0 10px;
+    /* background-color: tomato; */
+}
+
+.after-6 {
+    margin: 0 10px 10px 10px;
+    /* background-color: tomato; */
+}
+
+.after-7 {
+    margin: 10px 10px 10px 0;
+    /* background-color: tomato; */
+}
+
+.after-0 {
+    padding: 5px;
+    /* background-color: tomato; */
+}
+
+.after-8 {
+    padding-bottom: 5px;
+    /* background-color: tomato; */
+}
+
+.after-9 {
+    padding: 10px 10px;
+    /* background-color: tomato; */
+}
+
+.after-10 {
+    padding: 10px 0 10px 0;
+    /* background-color: tomato; */
+}
+
+.after-11 {
+    padding: 10px 10px 0 10px
+    /* background-color: tomato; */
+}
+
+.after-12 {
+    padding: 0 10px 0 10px;
+    /* background-color: tomato; */
+}
+
+.after-13 {
+    padding: 0 10px 10px 10px;
+    /* background-color: tomato; */
+}
+
+.after-14 {
+    padding: 10px 10px 10px 0;
+    /* background-color: tomato; */
+}
+
+#wrapper-2 {
+    width: 45%;
+    min-width: 76px;
+    display: inline-block;
+}
+
+.color2 {
+    background-color: cadetblue;
+}
+
+h2 {
+  text-align: center;
+  background-color: skyblue;
+  color: white;
+  padding: 10px 0px;
+}
+.box,
+.shape {
+  width: 100px;
+  height: 100px;
+  background-color: lightsalmon;
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.margin1 {
+  margin: 20px;
+}
+.margin2 {
+  margin: 20px 40px;
+}
+.margin3 {
+  margin: 20px 60px 60px;
+}
+.margin4 {
+  margin: 20px 20px 20px 20px;
+}
+.padding1 {
+  padding: 20px;
+}
+.padding2 {
+  padding: 20px 40px;
+}
+.padding3 {
+  padding: 20px 40px 60px;
+}
+.padding4 {
+  padding: 20px 20px 20px 20px;
+}
